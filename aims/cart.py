@@ -19,7 +19,7 @@ class Cart:
         return True
 
     def total_cost(self):
-        return round(sum(dvd.cost for dvd in self.items), 2)
+        return 0
 
     def print_cart(self):
         if not self.items:

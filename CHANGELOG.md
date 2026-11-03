@@ -5,6 +5,9 @@ Số phiên bản tuân theo Semantic Versioning.
 
 ## [Unreleased]
 
+### Added
+- Sắp xếp giỏ theo tên DVD, không phân biệt hoa thường.
+- Sắp xếp giỏ theo giá tăng dần; cùng giá thì theo tên.
 ## [1.0.0] - 2026-11-03
 
 ### Added

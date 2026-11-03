@@ -7,10 +7,19 @@ Số phiên bản tuân theo Semantic Versioning.
 
 ## [1.1.0] - 2026-11-03
 
+### Fixed
+- Bao gồm bản sửa tìm kiếm theo tên không phân biệt hoa thường từ dòng 1.0.1.
 ### Added
 - Sắp xếp giỏ theo tên DVD, không phân biệt hoa thường.
 - Sắp xếp giỏ theo giá tăng dần; cùng giá thì theo tên.
 - Tìm DVD theo thể loại, không phân biệt hoa thường.
+
+## [1.0.1] - 2026-11-03
+
+### Fixed
+- Tìm DVD theo tên không phân biệt hoa thường.
+- Thêm regression test cho tìm kiếm theo tên.
+
 ## [1.0.0] - 2026-11-03
 
 ### Added

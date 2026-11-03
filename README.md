@@ -12,3 +12,4 @@ Python >= 3.10.
 ## Chạy chương trình
 
 python main.py
+Expected demo total: 63.89 $.

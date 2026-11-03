@@ -4,7 +4,11 @@ Ghi nhận thay đổi đáng chú ý của AIMS-mini.
 Số phiên bản tuân theo Semantic Versioning.
 
 ## [Unreleased]
+## [1.0.1] - 2026-11-03
 
+### Fixed
+- Tìm DVD theo tên không phân biệt hoa thường.
+- Thêm regression test cho tìm kiếm theo tên.
 ## [1.0.0] - 2026-11-03
 
 ### Added

@@ -1,8 +1,9 @@
 from aims.dvd import DigitalVideoDisc
 from aims.cart import Cart
-
+from aims import __version__
 
 def main():
+    print(f"AIMS Version: {__version__}")
     cart = Cart()
 
     discs = [
